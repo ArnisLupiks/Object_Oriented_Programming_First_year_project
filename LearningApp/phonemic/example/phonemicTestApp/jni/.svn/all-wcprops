@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/phonemic/!svn/ver/206/trunk/phonemic/jni
+END
+nvdaControllerClient64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phonemic/!svn/ver/174/trunk/phonemic/jni/nvdaControllerClient64.dll
+END
+SappyJNI64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/phonemic/!svn/ver/200/trunk/phonemic/jni/SappyJNI64.dll
+END
+libLinuxSpeakJNI64.so
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phonemic/!svn/ver/202/trunk/phonemic/jni/libLinuxSpeakJNI64.so
+END
+libCarbonSpeakJNI.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phonemic/!svn/ver/191/trunk/phonemic/jni/libCarbonSpeakJNI.jnilib
+END
+SappyJNI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/phonemic/!svn/ver/200/trunk/phonemic/jni/SappyJNI.dll
+END
+libCarbonSpeakJNI_PPC.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/phonemic/!svn/ver/206/trunk/phonemic/jni/libCarbonSpeakJNI_PPC.jnilib
+END
+nvdaControllerClient32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phonemic/!svn/ver/174/trunk/phonemic/jni/nvdaControllerClient32.dll
+END
+Interop.SpeechLib.5.3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phonemic/!svn/ver/174/trunk/phonemic/jni/Interop.SpeechLib.5.3.dll
+END
+libLinuxSpeakJNI.so
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phonemic/!svn/ver/177/trunk/phonemic/jni/libLinuxSpeakJNI.so
+END
